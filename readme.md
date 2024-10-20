@@ -30,6 +30,13 @@ Para ejecutar el programa, sigue estos pasos:
 
     ./main 100 3
 
+## En caso de error al ejecutar
+
+Actualizar libreria "libstdc++" con los siguientes comandos en la terminal:
+
+    sudo apt update
+    sudo apt upgrade libstdc++6
+
 ## Ejemplo de Salida
 
 Al ejecutar el programa, verás una salida similar a la siguiente:
