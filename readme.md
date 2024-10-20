@@ -24,7 +24,7 @@ Para ejecutar el programa, sigue estos pasos:
 1. Abre una terminal y navega al directorio donde se encuentra el ejecutable `main`.
 2. Ejecuta el programa con los argumentos necesarios:
 
-    ./main <Distancia total> <Numero de autos>
+    ./main (Distancia total) (Numero de autos)
 
     Por ejemplo, para ejecutar una carrera de 100 metros con 3 autos, usa el siguiente comando:
 
